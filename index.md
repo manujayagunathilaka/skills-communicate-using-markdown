@@ -5,4 +5,8 @@
 
 ```javascript
 console.log("This is a code block!");
+```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
